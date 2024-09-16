@@ -1,2 +1,3 @@
 # -belajar-kolaborasi
-_squash changes_
+_squash changes_  
+selamat belajar!
